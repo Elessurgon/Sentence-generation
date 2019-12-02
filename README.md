@@ -1,7 +1,7 @@
 # simple-language
 
-A Clojure app to ... well, that part is up to you.
+Pretty useless stuff
 
 ## Usage
 
-FIXME
+to see trees and a sentence generator(sort of) in clojure
